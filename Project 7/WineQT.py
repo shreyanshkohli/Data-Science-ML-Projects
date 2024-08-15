@@ -37,7 +37,7 @@ print(p,score)
 #     if i < len(data.columns) - 1:  
 #         ax.scatter(x=data['quality'], y=data.iloc[:, i])
 #         ax.set_xlabel('quality')
-#         ax.set_ylabel(f'Column {i}')
+#         ax.set_ylabel(data.columns[i])
 
 # plt.tight_layout()
 # plt.style.use('ggplot')
