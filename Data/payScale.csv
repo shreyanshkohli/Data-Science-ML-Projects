@@ -1,0 +1,11 @@
+company,role,salary more than 100K
+ABC Pharma,BD,0
+ABC Pharma,BD,1
+Meta,BD,0
+Google,Tech,1
+ABC Pharma,BD,0
+Google,Sales,1
+Google,Sales,0
+ABC Pharma,Tech,0
+ABC Pharma,BD,1
+Google,Sales,0
